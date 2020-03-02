@@ -1,14 +1,15 @@
 html,body{
-    background-color: skyblue;
+    background-color: rgb(196, 202, 204);
     letter-spacing: 5px;
+    width: 50%;
+    height: 50%;
     
 }
 .container{
-    max-width: 300px;
+    max-width: 400px;
 }
 .icon{
     position: relative;
     border-radius: 50%;
     top:-50px;
-    
- }
+    }
