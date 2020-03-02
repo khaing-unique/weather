@@ -1,7 +1,7 @@
 html,body{
     background-color: skyblue;
     letter-spacing: 5px;
-    height: 60%;
+    height: 50%;
 }
 .container{
     max-width: 400px;
@@ -10,5 +10,5 @@ html,body{
     position: relative;
     border-radius: 50%;
     top:-50px;
-    margin-bottom: -50px;
+    
  }
