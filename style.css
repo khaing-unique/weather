@@ -1,11 +1,8 @@
 html,body{
     background-color: rgb(196, 202, 204);
     letter-spacing: 5px;
-    width: 50%;
-    height: 50%;
-    text-align: center;
-    
-}
+    height: 55%;
+    }
 .container{
     max-width: 400px;
 }
