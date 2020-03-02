@@ -1,11 +1,10 @@
 html,body{
     background-color: skyblue;
     letter-spacing: 5px;
-    height: 40%;
-
+    
 }
 .container{
-    max-width: 400px;
+    max-width: 300px;
 }
 .icon{
     position: relative;
